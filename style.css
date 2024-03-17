@@ -1,0 +1,11 @@
+body{
+    padding: 10px 100px;
+}
+
+#display{
+    margin-left: 250px;
+    padding: 20px;
+    line-height: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
